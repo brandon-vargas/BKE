@@ -1,8 +1,8 @@
 <template>
 <div>
-    <v-app-bar color="black" dark>
+    <v-app-bar color="#4E84BA" dark>
       <v-app-bar-nav-icon @click="drawer = true"></v-app-bar-nav-icon>
-      <v-toolbar-title>Hey Eduardo</v-toolbar-title>
+      <v-toolbar-title>La Academia</v-toolbar-title>
     </v-app-bar>
 
     <v-navigation-drawer

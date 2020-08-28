@@ -2,7 +2,7 @@
   <v-app>      
     <AppBar/>
     <v-container class="home-page">
-    <router-view :to="{ name: '/'}"></router-view>
+      <router-view :to="{ name: '/'}"></router-view>
     </v-container>
   </v-app>
 </template>
